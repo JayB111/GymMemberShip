@@ -1,0 +1,14 @@
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.AssemblyInfoInputs.cache
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.AssemblyInfo.cs
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.csproj.CoreCompileInputs.cache
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\bin\Debug\net8.0\GymMembership.exe
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\bin\Debug\net8.0\GymMembership.deps.json
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\bin\Debug\net8.0\GymMembership.runtimeconfig.json
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\bin\Debug\net8.0\GymMembership.dll
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\bin\Debug\net8.0\GymMembership.pdb
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.dll
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\refint\GymMembership.dll
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.pdb
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\GymMembership.genruntimeconfig.cache
+C:\Users\jaylj\source\repos\GymMembership\GymMembership\obj\Debug\net8.0\ref\GymMembership.dll
